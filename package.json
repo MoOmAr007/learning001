@@ -1,0 +1,24 @@
+{
+  "name": "first-website",
+  "version": "1.0.0",
+  "description": "\"this is a test website to learn node and npm \" ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoOmAr007/learning001.git"
+  },
+  "author": "Muhammed Omar Ghoneam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoOmAr007/learning001/issues"
+  },
+  "homepage": "https://github.com/MoOmAr007/learning001#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
